@@ -13,7 +13,7 @@ body {
 }
 
 .icon {
-  position: relative;
+  position: absolute;
   top: 30px;
   right: 36px;
   cursor: pointer;
