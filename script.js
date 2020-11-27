@@ -56,7 +56,7 @@ async function predict() {
       nomask: '마스크 끼십시오.',
     };
 
-    if (probability >= 55) {
+    if (probability >= 75) {
       if (name.innerHTML !== className) {
         name.innerHTML = className;
         description.innerHTML = data[className];
