@@ -1,5 +1,3 @@
-https://dlwoqls.github.io/template/
-
 teachable machine을 이용한 웹 애플리케이션 서비스를 자유롭게 구상하세요.
 
 웹 애플리케이션 상세 스펙 정의하기
