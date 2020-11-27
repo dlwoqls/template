@@ -13,7 +13,7 @@ body {
 }
 
 .icon {
-  position: absolute;
+  position: relative;
   top: 30px;
   right: 36px;
   cursor: pointer;
@@ -28,7 +28,7 @@ body {
 
 .icon i {
   font-size: 24px;
-  color: #0004f5;
+  color: #0004ff;
 }
 
 .camera {
