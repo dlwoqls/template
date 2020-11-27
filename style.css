@@ -10,7 +10,7 @@ body {
   font-family: "Noto Sans KR", sans-serif;
   background-color: aqua;
   border-color: aqua;
-  box-shadow: 0px 2px 2px rgba(255, 0, 221, 0.2);
+  box-shadow: 0px 2px 2px rgba(56, 199, 255, 0.2);
   border-radius: 10px;
 }
 
@@ -19,7 +19,7 @@ body {
   top: 30px;
   right: 36px;
   cursor: pointer;
-  background-color: rgba(22, 8, 104, 0.2);
+  background-color: rgba(36, 0, 243, 0.2);
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -30,14 +30,14 @@ body {
 
 .icon i {
   font-size: 24px;
-  color: #ff0000;
+  color: #15ff00;
 }
 
 .camera {
   width: 380px;
   height: 380px;
   background-color: aquamarine;
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 2px #00aeff33;
 }
 
 .name {
